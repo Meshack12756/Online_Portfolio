@@ -29,7 +29,7 @@ body {
     justify-content: center;  
     align-items: center;     
     height: 100vh;
-    background: url('images/aug_18_02.jpg') no-repeat right center;
+    background: url('aug_18_02.jpg') no-repeat right center;
     background-size: contain; 
     background-color: #0a0f25; 
 }
